@@ -5,7 +5,7 @@ This repository contains the saved Roblox Studio place for **Black Guard**, an e
 ## Files
 
 - `BlackGuard_Bilingual_Release.rbxl` — the Roblox Studio place file.
-- `使用说明.md` — Chinese-language notes for playing and editing the project.
+- [`使用说明.md`](使用说明.md) — English-language player and project guide.
 
 ## Open in Roblox Studio
 
