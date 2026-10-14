@@ -1,17 +1,16 @@
-Warning: p was declared with const; use let for reassignable variables.
-# Black Guard — Bilingual Roblox Release
+# Black Guard | Bilingual Roblox Experience
 
-This repository contains the saved Roblox Studio place file for the bilingual release of **Black Guard (黑甲护卫)**.
+This repository contains the saved Roblox Studio place for **Black Guard**, an educational game with Chinese and English player-facing content.
 
 ## Files
 
-- `BlackGuard_Bilingual_Release.rbxl` — saved Roblox place file.
-- `使用说明.md` — project play/edit notes in Chinese.
+- `BlackGuard_Bilingual_Release.rbxl` — the Roblox Studio place file.
+- `使用说明.md` — Chinese-language notes for playing and editing the project.
 
 ## Open in Roblox Studio
 
-Open Roblox Studio, choose **File → Open from File**, and select `BlackGuard_Bilingual_Release.rbxl`. Review the project in Studio before publishing it to an account or experience.
+In Roblox Studio, choose **File → Open from File** and select `BlackGuard_Bilingual_Release.rbxl`. Review and test the place in Studio before publishing it to an account or experience.
 
-## Snapshot
+## Release snapshot
 
-This saved bilingual release includes the Stage 2 two-bottle spray cart: players drive it to the glowing stops and confirm each virtual spray. The source place file was last modified on 2026-10-11. This is a renamed copy; the original file remains unchanged in the workspace.
+Stage 2 includes a two-bottle spray cart. Players drive to the glowing stops and confirm each virtual spray. This saved place was last modified on October 11, 2026. The original source file remains unchanged in the workspace.
